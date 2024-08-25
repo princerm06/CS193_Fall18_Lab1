@@ -26,6 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Prince Mohapatra's First CS193 Homework
+
+- Collaborating with classmates
+- Studying computer science in general
+- Learning useful tools that can help me in other classes
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
